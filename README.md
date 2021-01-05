@@ -26,4 +26,7 @@ Following tutorials given in [here](https://pytorch.org/tutorials/)
 
 1. [Torchvision Object Detection Finetuning Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
 ([Notebook](notebook/11_Torchvision_Object_Detection_Finetuning_Tutorial.ipynb))
-
+2. [Transfer Learning For Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+([Notebook](notebook/12_Transfer_Learning_For_Computer_Vision_Tutorial.ipynb))
+3. [Adversarial Example Generation](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
+([Notebook](notebook/13_Adversarial_Example_Generation.ipynb))
